@@ -1,0 +1,41 @@
+C:\programare\Atestat_V2\Nintendo_Land\Nintendo_Land\bin\Debug\Nintendo_Land.exe.config
+C:\programare\Atestat_V2\Nintendo_Land\Nintendo_Land\bin\Debug\Nintendo_Land.exe
+C:\programare\Atestat_V2\Nintendo_Land\Nintendo_Land\bin\Debug\Nintendo_Land.pdb
+C:\programare\Atestat_V2\Nintendo_Land\Nintendo_Land\obj\Debug\Nintendo_Land.csproj.AssemblyReference.cache
+C:\programare\Atestat_V2\Nintendo_Land\Nintendo_Land\obj\Debug\Nintendo_Land.SplashScreen.resources
+C:\programare\Atestat_V2\Nintendo_Land\Nintendo_Land\obj\Debug\Nintendo_Land.Properties.Resources.resources
+C:\programare\Atestat_V2\Nintendo_Land\Nintendo_Land\obj\Debug\Nintendo_Land.csproj.GenerateResource.cache
+C:\programare\Atestat_V2\Nintendo_Land\Nintendo_Land\obj\Debug\Nintendo_Land.csproj.CoreCompileInputs.cache
+C:\programare\Atestat_V2\Nintendo_Land\Nintendo_Land\obj\Debug\Nintendo_Land.exe
+C:\programare\Atestat_V2\Nintendo_Land\Nintendo_Land\obj\Debug\Nintendo_Land.pdb
+C:\programare\Atestat_V2\Nintendo_Land\Nintendo_Land\obj\Debug\Nintendo_Land.Welcome.resources
+C:\programare\Atestat_V2\Nintendo_Land\Nintendo_Land\bin\Debug\DataDB.mdf
+C:\programare\Atestat_V2\Nintendo_Land\Nintendo_Land\bin\Debug\DataDB_log.ldf
+C:\programare\Atestat_V2\Nintendo_Land\Nintendo_Land\obj\Debug\Nintendo_Land.MainPage.resources
+C:\programare\Atestat_V2\Nintendo_Land\Nintendo_Land\bin\Debug\Interop.WMPLib.dll
+C:\programare\Atestat_V2\Nintendo_Land\Nintendo_Land\bin\Debug\AxInterop.WMPLib.dll
+C:\programare\Atestat_V2\Nintendo_Land\Nintendo_Land\obj\Debug\Interop.WMPLib.dll
+C:\programare\Atestat_V2\Nintendo_Land\Nintendo_Land\obj\Debug\AxInterop.WMPLib.dll
+C:\programare\Atestat_V2\Nintendo_Land\Nintendo_Land\obj\Debug\Nintendo_Land.csproj.ResolveComReference.cache
+C:\programare\Atestat_V2\Nintendo_Land\Nintendo_Land\obj\Debug\Nintendo_Land.GamePage.resources
+C:\programare\Atestat CSharp Simionescu Robert Alexandru\Atestat_V2\Nintendo_Land\Nintendo_Land\bin\Debug\DataDB.mdf
+C:\programare\Atestat CSharp Simionescu Robert Alexandru\Atestat_V2\Nintendo_Land\Nintendo_Land\bin\Debug\DataDB_log.ldf
+C:\programare\Atestat CSharp Simionescu Robert Alexandru\Atestat_V2\Nintendo_Land\Nintendo_Land\bin\Debug\Nintendo_Land.exe.config
+C:\programare\Atestat CSharp Simionescu Robert Alexandru\Atestat_V2\Nintendo_Land\Nintendo_Land\bin\Debug\Nintendo_Land.exe
+C:\programare\Atestat CSharp Simionescu Robert Alexandru\Atestat_V2\Nintendo_Land\Nintendo_Land\bin\Debug\Nintendo_Land.pdb
+C:\programare\Atestat CSharp Simionescu Robert Alexandru\Atestat_V2\Nintendo_Land\Nintendo_Land\bin\Debug\Interop.WMPLib.dll
+C:\programare\Atestat CSharp Simionescu Robert Alexandru\Atestat_V2\Nintendo_Land\Nintendo_Land\bin\Debug\AxInterop.WMPLib.dll
+C:\programare\Atestat CSharp Simionescu Robert Alexandru\Atestat_V2\Nintendo_Land\Nintendo_Land\obj\Debug\Nintendo_Land.csproj.AssemblyReference.cache
+C:\programare\Atestat CSharp Simionescu Robert Alexandru\Atestat_V2\Nintendo_Land\Nintendo_Land\obj\Debug\Interop.WMPLib.dll
+C:\programare\Atestat CSharp Simionescu Robert Alexandru\Atestat_V2\Nintendo_Land\Nintendo_Land\obj\Debug\AxInterop.WMPLib.dll
+C:\programare\Atestat CSharp Simionescu Robert Alexandru\Atestat_V2\Nintendo_Land\Nintendo_Land\obj\Debug\Nintendo_Land.csproj.ResolveComReference.cache
+C:\programare\Atestat CSharp Simionescu Robert Alexandru\Atestat_V2\Nintendo_Land\Nintendo_Land\obj\Debug\Nintendo_Land.GamePage.resources
+C:\programare\Atestat CSharp Simionescu Robert Alexandru\Atestat_V2\Nintendo_Land\Nintendo_Land\obj\Debug\Nintendo_Land.MainPage.resources
+C:\programare\Atestat CSharp Simionescu Robert Alexandru\Atestat_V2\Nintendo_Land\Nintendo_Land\obj\Debug\Nintendo_Land.SplashScreen.resources
+C:\programare\Atestat CSharp Simionescu Robert Alexandru\Atestat_V2\Nintendo_Land\Nintendo_Land\obj\Debug\Nintendo_Land.Properties.Resources.resources
+C:\programare\Atestat CSharp Simionescu Robert Alexandru\Atestat_V2\Nintendo_Land\Nintendo_Land\obj\Debug\Nintendo_Land.Welcome.resources
+C:\programare\Atestat CSharp Simionescu Robert Alexandru\Atestat_V2\Nintendo_Land\Nintendo_Land\obj\Debug\Nintendo_Land.csproj.GenerateResource.cache
+C:\programare\Atestat CSharp Simionescu Robert Alexandru\Atestat_V2\Nintendo_Land\Nintendo_Land\obj\Debug\Nintendo_Land.csproj.CoreCompileInputs.cache
+C:\programare\Atestat CSharp Simionescu Robert Alexandru\Atestat_V2\Nintendo_Land\Nintendo_Land\obj\Debug\Nintendo_Land.exe
+C:\programare\Atestat CSharp Simionescu Robert Alexandru\Atestat_V2\Nintendo_Land\Nintendo_Land\obj\Debug\Nintendo_Land.pdb
+C:\programare\Atestat CSharp Simionescu Robert Alexandru\Atestat_V2\Nintendo_Land\Nintendo_Land\obj\Debug\Nintendo_Land.exe.config

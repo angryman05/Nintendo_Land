@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataDBDataSet1" targetNamespace="http://tempuri.org/DataDBDataSet1.xsd" xmlns:mstns="http://tempuri.org/DataDBDataSet1.xsd" xmlns="http://tempuri.org/DataDBDataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="DataDBConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="DataDBConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Nintendo_Land.Properties.Settings.GlobalReference.Default.DataDBConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="GamesTableAdapter" GeneratorDataComponentClassName="GamesTableAdapter" Name="Games" UserDataComponentName="GamesTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="DataDBConnectionString (Settings)" DbObjectName="dbo.Games" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT title, publisher, platform, genre FROM dbo.Games</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="title" DataSetColumn="title" />
+              <Mapping SourceColumn="publisher" DataSetColumn="publisher" />
+              <Mapping SourceColumn="platform" DataSetColumn="platform" />
+              <Mapping SourceColumn="genre" DataSetColumn="genre" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="ReviewsTableAdapter" GeneratorDataComponentClassName="ReviewsTableAdapter" Name="Reviews" UserDataComponentName="ReviewsTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="DataDBConnectionString (Settings)" DbObjectName="dbo.Reviews" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Score FROM dbo.Reviews</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Score" DataSetColumn="Score" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataDBDataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="DataDBDataSet1" msprop:Generator_DataSetName="DataDBDataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Games" msprop:Generator_RowEvHandlerName="GamesRowChangeEventHandler" msprop:Generator_RowDeletedName="GamesRowDeleted" msprop:Generator_RowDeletingName="GamesRowDeleting" msprop:Generator_RowEvArgName="GamesRowChangeEvent" msprop:Generator_TablePropName="Games" msprop:Generator_RowChangedName="GamesRowChanged" msprop:Generator_RowChangingName="GamesRowChanging" msprop:Generator_TableClassName="GamesDataTable" msprop:Generator_RowClassName="GamesRow" msprop:Generator_TableVarName="tableGames" msprop:Generator_UserTableName="Games">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="title" msprop:Generator_ColumnPropNameInRow="title" msprop:Generator_ColumnPropNameInTable="titleColumn" msprop:Generator_ColumnVarNameInTable="columntitle" msprop:Generator_UserColumnName="title">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="publisher" msprop:Generator_ColumnPropNameInRow="publisher" msprop:Generator_ColumnPropNameInTable="publisherColumn" msprop:Generator_ColumnVarNameInTable="columnpublisher" msprop:Generator_UserColumnName="publisher">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="platform" msprop:Generator_ColumnPropNameInRow="platform" msprop:Generator_ColumnPropNameInTable="platformColumn" msprop:Generator_ColumnVarNameInTable="columnplatform" msprop:Generator_UserColumnName="platform">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="genre" msprop:Generator_ColumnPropNameInRow="genre" msprop:Generator_ColumnPropNameInTable="genreColumn" msprop:Generator_ColumnVarNameInTable="columngenre" msprop:Generator_UserColumnName="genre">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Reviews" msprop:Generator_RowEvHandlerName="ReviewsRowChangeEventHandler" msprop:Generator_RowDeletedName="ReviewsRowDeleted" msprop:Generator_RowDeletingName="ReviewsRowDeleting" msprop:Generator_RowEvArgName="ReviewsRowChangeEvent" msprop:Generator_TablePropName="Reviews" msprop:Generator_RowChangedName="ReviewsRowChanged" msprop:Generator_RowChangingName="ReviewsRowChanging" msprop:Generator_TableClassName="ReviewsDataTable" msprop:Generator_RowClassName="ReviewsRow" msprop:Generator_TableVarName="tableReviews" msprop:Generator_UserTableName="Reviews">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Score" msprop:Generator_ColumnPropNameInRow="Score" msprop:Generator_ColumnPropNameInTable="ScoreColumn" msprop:Generator_ColumnVarNameInTable="columnScore" msprop:Generator_UserColumnName="Score" type="xs:double" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
